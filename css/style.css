@@ -349,12 +349,5 @@ btn:hover {
 }
 
 #main-footer .footer-container input[type='submit'] {
-  width: 90%;
-  /* direct button styling bc netlify doesnt like classes on inputs?*/
-  display: inline-block;
-  border: none;
-  background: var(--dark-color);
-  color: #fff;
-  padding: 0.5rem 1.5rem;
-  background: var(--primary-color);
+  width: 90%
 }
